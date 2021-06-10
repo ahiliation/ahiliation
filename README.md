@@ -19,7 +19,8 @@ Here are some ideas to get you started:
  Learning on :    Linux system programming <br>
  Ask me on :      Debian systems <br>
  Help me with :   GIMP <br>
- Reach me :       jeffrin@rajagiritech.edu.in
+ Reach me :       jeffrin@rocketmail.com
+ 
  
  
  
