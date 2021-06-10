@@ -15,5 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- Working on :  Graphics Design.(not yet uploaded to github) <br>
- Learning on : Linux system programming
+ Working on :     Graphics Design.(not yet uploaded to github) <br>
+ Learning on :    Linux system programming <br>
+ Ask me on :      Debian systems <br>
+ Help me with :   GIMP <br>
+ Reach me :       jeffrin@rajagiritech.edu.in
+ 
+ 
+ 
