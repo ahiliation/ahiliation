@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently working on graphics design.
-I am currently learning linux system programming
+ Working on :  Graphics Design.(not yet uploaded to github) <br>
+ Learning on : Linux system programming
