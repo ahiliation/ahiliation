@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- ### Working on :     Graphics Design.(not yet uploaded to github)
- ### Learning on :    Software System 
- ### Ask me on :      Debian system
- ### Help me with :   GIMP
- ### Reach me :       jeffrin@rocketmail.com 
+  **Working on :     Graphics Design.(not yet uploaded to github)<br>
+    Learning on :    Software System <br>
+    Ask me on :      Debian system<br>
+    Help me with :   GIMP<br>
+    Reach me :       jeffrin@rocketmail.com** 
   
  
  
