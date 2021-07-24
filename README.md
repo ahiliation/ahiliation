@@ -20,7 +20,10 @@ Here are some ideas to get you started:
     Ask me on :      Debian system<br>
     Help me with :   GIMP<br>
     Reach me :       jeffrin@rocketmail.com** 
-  
- 
+    
+    
+  **Linux Kernel       : https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?&qt=grep&q=jeffrin
+  **Linkedin           : https://www.linkedin.com/in/jeffrinl/
+  **People at Savannah : https://savannah.gnu.org/users/ahiliation        :  
  
  
