@@ -26,8 +26,7 @@ Here are some ideas to get you started:
    **Linkedin**            : *https://www.linkedin.com/in/jeffrinl/*<br>
    **People at Savannah**  : *https://savannah.gnu.org/users/ahiliation*         :  
  
-   **A clipping from [GNU's WHO](https://www.gnu.org/people/)** 
- 
+**A clipping from [GNU's WHO](https://www.gnu.org/people/)**  
  *Worked on the GNU Source Installer, and was a contributor to upstream Linux, the kernel.<br>
  He was also the maintainer of GNU Dap, GNU Trueprint, and GNU GLeem. br>
  He is currently involved in building and sharing knowledge using free software.*
