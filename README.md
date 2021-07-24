@@ -27,7 +27,6 @@ Here are some ideas to get you started:
     People at Savannah : https://savannah.gnu.org/users/ahiliation**        :  
  
   **A clipping from [GNU's WHO](https://www.gnu.org/people/)** <br>
-  ------------------------------
  
  **Worked on the GNU Source Installer, and was a contributor to upstream Linux, the kernel.<br>
  He was also the maintainer of GNU Dap, GNU Trueprint, and GNU GLeem.<br>
