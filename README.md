@@ -28,9 +28,9 @@ Here are some ideas to get you started:
  
   **A clipping from [GNU's WHO](https://www.gnu.org/people/)** <br>
  
- **Worked on the GNU Source Installer, and was a contributor to upstream Linux, the kernel.<br>
+ *Worked on the GNU Source Installer, and was a contributor to upstream Linux, the kernel.<br>
  He was also the maintainer of GNU Dap, GNU Trueprint, and GNU GLeem.<br>
- He is currently involved in building and sharing knowledge using free software.**
+ He is currently involved in building and sharing knowledge using free software.*
 
  
  
