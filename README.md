@@ -22,9 +22,9 @@ Here are some ideas to get you started:
     Reach me :       jeffrin@rocketmail.com* 
     
     
-   *Linux Kernel       : https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?&qt=grep&q=jeffrin<br>
+   **Linux Kernel       : https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?&qt=grep&q=jeffrin<br>
     Linkedin           : https://www.linkedin.com/in/jeffrinl/<br>
-    People at Savannah : https://savannah.gnu.org/users/ahiliation*        :  
+    People at Savannah : https://savannah.gnu.org/users/ahiliation**        :  
  
    *A clipping from [GNU's WHO](https://www.gnu.org/people/)* <br>
  
