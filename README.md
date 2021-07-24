@@ -15,18 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  **Working on :     Graphics Design.(not yet uploaded to github)<br>
+   *Working on :     Graphics Design.(not yet uploaded to github)<br>
     Learning on :    Software System <br>
     Ask me on :      Debian sysr>tem<br>
     Help me with :   GIMP<br>
-    Reach me :       jeffrin@rocketmail.com** 
+    Reach me :       jeffrin@rocketmail.com* 
     
     
-  **Linux Kernel       : https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?&qt=grep&q=jeffrin<br>
+   *Linux Kernel       : https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?&qt=grep&q=jeffrin<br>
     Linkedin           : https://www.linkedin.com/in/jeffrinl/<br>
-    People at Savannah : https://savannah.gnu.org/users/ahiliation**        :  
+    People at Savannah : https://savannah.gnu.org/users/ahiliation*        :  
  
-  **A clipping from [GNU's WHO](https://www.gnu.org/people/)** <br>
+   *A clipping from [GNU's WHO](https://www.gnu.org/people/)* <br>
  
  *Worked on the GNU Source Installer, and was a contributor to upstream Linux, the kernel.<br>
  He was also the maintainer of GNU Dap, GNU Trueprint, and GNU GLeem.<br>
