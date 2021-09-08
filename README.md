@@ -1,4 +1,4 @@
-### Hello :smiley: I am  Jeffrin Jose T.
+### Hello :smiley: I am  Jeffrin Jose T. (Software Engineer/Generalist Researcher)
 
 <!--
 **ahiliation/ahiliation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
