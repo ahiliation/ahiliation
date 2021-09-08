@@ -25,7 +25,7 @@ Here are some ideas to get you started:
    **Linux Kernel**        : *https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?&qt=grep&q=jeffrin* <br>
    **Linkedin**            : *https://www.linkedin.com/in/jeffrinl/*<br>
    **People at Savannah**  : *https://savannah.gnu.org/users/ahiliation*<br>
-   **Debin Bugs Filed**    : *https://bugs.debian.org/cgi-bin/pkgreport.cgi?submitter=jeffrin%40rajagiritech.edu.in*
+   **Debian**              : *https://bugs.debian.org/cgi-bin/pkgreport.cgi?submitter=jeffrin%40rajagiritech.edu.in*
  
 **A clipping from [GNU's WHO](https://www.gnu.org/people/)**  
  *Worked on the GNU Source Installer, and was a contributor to upstream Linux, the kernel.<br>
