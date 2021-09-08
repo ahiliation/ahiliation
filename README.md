@@ -19,7 +19,7 @@ Here are some ideas to get you started:
    **Learning on**  :   *Software System* <br>
    **Ask me on**    :   *Debian system*<br>
    **Help me with** :   *GIMP*<br>
-   **Reach me**     :   *ahiliation@yahoo.co.in* 
+   **Reach me**     :    ahiliation@yahoo.co.in
     
     
    **Linux Kernel**        : *https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?&qt=grep&q=jeffrin* <br>
